@@ -1,0 +1,6 @@
+Django==1.9.5
+argparse==1.2.1
+cv2==1.0
+django-ftpserver==0.3.5
+pyftpdlib==1.5.0
+wsgiref==0.1.2
