@@ -131,7 +131,7 @@ MEDIA_ROOT='media'
 
 # Extra places for collectstatic to find static files.
 STATICFILES_DIRS = (
-    os.path.join(PROJECT_ROOT, 'static'),
+    os.path.join(PROJECT_ROOT, 'rint/static'),
 )
 
 
